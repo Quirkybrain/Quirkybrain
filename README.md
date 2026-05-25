@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi I'm ZhangHaoXuan 👋
 
 I'm **QuirkyBrain**, a freshman student from **Northwestern Polytechnical University**.
 
