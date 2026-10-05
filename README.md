@@ -1,64 +1,156 @@
-# Hi I'm ZhangHaoXuan 👋
+# Hi, I'm Zhang Haoxuan 👋
 
-I'm **QuirkyBrain**, a freshman student from **Northwestern Polytechnical University**.
+I'm a **Software Engineering student at Northwestern Polytechnical University (NPU)**.
 
-I'm currently building my foundation in low-level programming, especially around C, Linux C programming, data structures and algorithms, and object-oriented ideas in C.
+My current interests span several areas of software and intelligent systems:
 
-Instead of only making code work, I care more about understanding why the code is designed in a certain way, how memory changes during execution, and how programs actually run behind the scenes.
+- 🤖 **AI Software Engineering & Agent Systems**
+- ⚙️ **C, Linux & Systems Programming**
+- 🦾 **Robotics**
+- 🚀 **Huawei Ascend / CANN & AI Computing**
 
-## 🌱 Currently Learning
+I enjoy exploring software from both high-level engineering systems and low-level implementation details — from multi-agent software workflows to robotics, systems programming, and AI accelerator development.
 
-- Low-level mechanisms of C
-- Linux C programming
-- Data structures and algorithms
-- Simulating object-oriented programming ideas in C
+## 🚀 Long-Term Projects
 
-## 🔭 What I'm Working On
+### 🤖 Claude Code SWE Framework
 
-I'm currently organizing my learning process through code notes, small projects, and source code reading.
+**[claude-code-swe-framework](https://github.com/Quirkybrain/claude-code-swe-framework)**
 
-Some of my repositories include:
+A long-term software engineering framework exploring how AI agents can collaborate in real development workflows.
 
-- **C-learning-note**  
-  Personal notes and practical examples while learning C programming.  
-  This repository focuses on C language mechanisms, runnable examples, and low-level implementation ideas.
+Current topics include:
 
-- **lua-1.1-learning**  
-  A source code reading and technical analysis project for Lua 1.1.  
-  I use it to understand how an interpreter works, including lexical analysis, parsing, bytecode execution, dynamic types, tables, virtual stack, and garbage collection.
+- Multi-agent orchestration
+- Specialist agent delegation
+- Checkpoint / resume
+- Persistent engineering state
+- Quality gates
+- Hooks and deterministic constraints
+- Requirements → Architecture → Implementation → Testing → Review
 
-- **Math24**  
-  A Math24 card game built with Python and Tkinter.  
-  It includes user login, game statistics, a card UI, a 24-point solver, and expression validation.
+My goal is to explore how AI-assisted development can become more **structured, reliable, testable, and recoverable**.
 
-## 🧠 My Attitude
+---
 
-I believe learning programming is not only about memorizing syntax.
+### ⚙️ C Learning Notes
 
-For me, programming is also a way to understand how computers really work.  
-That is why I try to record not only final code, but also my thoughts, design choices, mistakes, debugging process, and improvements.
+**[C-learning-note](https://github.com/Quirkybrain/C-learning-note)**
 
-Some of my notes may not be perfect yet, and some code may be refactored as I learn more.  
-But I believe these records are an important part of my growth.
+A long-term collection of runnable examples and technical notes on C, Linux, and systems programming.
 
-## 📚 What You'll Find Here
+Topics include:
 
-On my GitHub, you may find:
+- C language mechanisms
+- Linux system programming
+- Memory management
+- File I/O
+- Data structures
+- Reference counting
+- Abstraction patterns
+- Low-level implementation details
 
-- C programming learning notes
-- Runnable examples for understanding low-level concepts
-- Experiments with pointers, structures, macros, memory layout, and object management
-- Data structure and algorithm practice
-- Source code reading notes
-- Small programming projects built during my learning process
-- Reflections on code design and debugging
+I prefer learning through:
 
-## 🎯 Goal
+**concept → implementation → experiment → debugging → explanation**
 
-At this stage, my goal is not to make every project look complicated.
+## 🦾 Robotics
 
-I hope that every piece of code I write can help me understand one more detail about programming, computer systems, and software design.
+I'm also studying and building robotics systems, with particular interest in:
 
-I want to keep learning, keep writing, keep making mistakes, and keep improving.
+- Robot localization
+- Visual perception
+- Multi-camera vision
+- Obstacle avoidance
+- Odometry
+- ROS 2
+- Sensor fusion
+- Real-time robot software
 
-> Code is not only a tool, but also a way to understand how computers really work.
+I'm especially interested in combining perception, localization, and control into reliable robotic systems rather than treating them as isolated modules.
+
+## 🚀 Huawei Ascend / CANN
+
+I'm currently learning the **Huawei Ascend AI computing ecosystem**, especially:
+
+- CANN
+- Ascend C
+- Custom operator development
+- Host / Device execution models
+- AI Core programming
+- Tensor memory management
+- Queue and pipeline mechanisms
+- Operator performance analysis
+- `msprof`
+- Heterogeneous computing
+
+My goal is to understand how AI operators are implemented and optimized closer to the hardware level, rather than only using high-level deep learning frameworks.
+
+## 🧠 Areas I'm Interested In
+
+### AI & Software Engineering
+
+- AI Software Engineering
+- Agent Systems
+- Multi-Agent Collaboration
+- Software Architecture
+- Testing & Code Review
+- Developer Tooling
+
+### Systems
+
+- C / C++
+- Linux
+- Systems Programming
+- Memory Management
+- Computer Architecture
+- Programming Language Internals
+
+### Robotics
+
+- Computer Vision
+- Localization
+- Navigation
+- ROS 2
+- Embedded Robotics
+
+### AI Computing
+
+- Huawei Ascend
+- CANN
+- Ascend C
+- AI Accelerators
+- Operator Development
+- Performance Optimization
+
+## 🛠️ Languages & Tools
+
+`C` · `C++` · `Python` · `Java` · `Rust`
+
+`Linux` · `Git` · `ROS 2` · `Claude Code` · `CANN` · `Ascend C`
+
+## 🎯 Current Direction
+
+I'm currently exploring software engineering across multiple abstraction levels:
+
+**Higher-level engineering**
+
+AI agents, software architecture, automation, testing, and reliable development workflows.
+
+**Intelligent systems**
+
+Robotics, perception, localization, and autonomous systems.
+
+**Lower-level systems**
+
+C, Linux, memory, runtime behavior, and systems programming.
+
+**AI computing infrastructure**
+
+CANN, Ascend C, custom operators, and accelerator-oriented optimization.
+
+I want to understand not only how to build intelligent software, but also how the systems underneath it actually work.
+
+---
+
+> From AI agents to robots, from C to AI accelerators.
